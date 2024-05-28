@@ -1,0 +1,10 @@
+database:
+  host: 'localhost'
+  port: '3306'
+  table: 'bot'
+  username: 'root'
+  password: 'yd901455'
+
+bot:
+  appid: '102113385'
+  appSecret: '9GNUcks08GOXgpy7GQaku4EOZkv6HSdp'
